@@ -1,0 +1,19 @@
+class Next_Number
+{
+    public static void main(String[] args)
+    {
+        int a=71;
+        int b=a+1;
+        System.out.println(b+" is the next number");
+    }
+
+}
+class Previous_Number
+{
+    public static void main(String[] args)
+    {
+        int a=84;
+        int b=a-1;
+        System.out.println(b+" is the previous number");
+    }
+}
