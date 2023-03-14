@@ -1,0 +1,10 @@
+class Main
+{
+    public static void main(String[] args) {
+        int a=47;
+        int rem=a%2;
+        if (rem==1)
+            System.out.println(a+" is an odd number");
+        else System.out.println(a+" is an even number");
+    }
+}
